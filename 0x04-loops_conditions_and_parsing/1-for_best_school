@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-"""Code to print 'Best School' 10 times."""
+#Code to print 'Best School' 10 times.
 
 for i in range(10):
     print("Best School")
