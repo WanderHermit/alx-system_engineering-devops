@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env bash
 """Code to print 'Best School' 10 times."""
 
 for i in range(10):
